@@ -1,0 +1,7 @@
+int a,b,c;
+a=10;
+b=2*a;
+c=a+b;
+print a;
+print b;
+print c;
